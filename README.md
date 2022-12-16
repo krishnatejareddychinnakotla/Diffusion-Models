@@ -1,1 +1,1 @@
-# Diffusion-Models-
+# Diffusion Models for Image Generation
